@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es"
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"
+    content="IE=Edge">
+    <meta name="viewport"
+    content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>EduWEb</title>
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <img src="Imagenes/logo.png" alt="EduWEb">
+        </div>
+        <nav>
+            <a href="" class="nav-link">Iniciar</a>
+            <a href="" class="nav-link">Cursos</a>
+            <a href="" class="nav-link">Biblioteca</a>
+            <a href="" class="nav-link">insignias</a>
+
+        </nav>
+
+        <nav class="inicio de sesion">
+            <button class="Inicio-de-sesion">Iniciar sesion</button>
+            <button class="Registro"> Registrate</button>
+        </nav>
+    </header>
+    <div class="container">
+    <p class="Subtitulo">Eduweb<br>
+    Formación continua de Docentes</p>
+    <p class="informacion"> Nuestra plataforma esta diseñada para ser<br>
+        intuitiva y fácil de usar, brindando a los<br>
+        docentes una experiencia fluida y eficaz en su<br>
+        labor diaria.¡Únete a nuestra comunidad de<br> 
+        docentes y simplifica tu trabajo con nuestra<br> 
+        plataforma de seguimiento!</p>
+        <img class="docente" src="Imagenes/Persona 1.png" alt="docente">
+        </div>
+
+        <button>Iniciar</button> <br>
+
+<section class="pie">
+    <p class="siguenos">Siguenos en nuestras redes</p>
+    <div class="container">
+        <button class="contacto"> Tienes alguna consulta?<br> Contactanos</button>
+    </div>
+    <a href="" class="politica">Politica de Privacidad/Ayuda</a>
+</section>
+
+<footer class="footer">2023/Educación Web Nicaragua</footer>
+
+</body>
+
+</html>
